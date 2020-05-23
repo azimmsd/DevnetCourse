@@ -1,0 +1,12 @@
+---
+people:
+- Id: 1
+  FirstName: Ehsan
+  LastName: Masoudi
+- Id: 1
+  FirstName: Mehrnoosh
+  LastName: Entezami
+- Id: 1
+  FirstName: Iman
+  LastName: Rajabizadeh
+...
