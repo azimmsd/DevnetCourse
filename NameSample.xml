@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+    <person id="1">
+        <Firstname>ehsan</Firstname>
+        <Lastname>masoudi</Lastname>
+    </person>
+    <person id="2">
+        <Firstname>Mehrnoosh</Firstname>
+        <Lastname>Entezami</Lastname>
+    </person>
+    <person id="3">
+        <Firstname>Iman</Firstname>
+        <Lastname>Rajabizadeh</Lastname>
+    </person>
+</people>
