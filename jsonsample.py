@@ -19,4 +19,4 @@ jsonstr="""{
   ]
 }"""
 jsonobj=json.loads(jsonstr)
-print(jsonobj)
+print(jsonobj)  
